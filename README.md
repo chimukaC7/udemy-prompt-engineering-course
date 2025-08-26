@@ -11,3 +11,9 @@ This is a Github repository for all of the source code used in the Udemy Prompt 
 ## How to run Gitleaks to generate a report:
 
 `gitleaks detect --source="." --report-path="gitleaks-report.json"`
+
+
+## Userful Resources
+- https://learnprompting.org/docs/basics/roles
+- https://github.com/chimukaC7/awesome-chatgpt-prompts
+- 
