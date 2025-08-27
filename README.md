@@ -16,4 +16,5 @@ This is a Github repository for all of the source code used in the Udemy Prompt 
 ## Userful Resources
 - https://learnprompting.org/docs/basics/roles
 - https://github.com/chimukaC7/awesome-chatgpt-prompts
-- 
+- https://pypi.org/project/openai/
+- https://github.com/openai/openai-cookbook/tree/main/examples

@@ -1,0 +1,30 @@
+ ChatGPT only has a certain number of tokens
+
+that it can generate as a maximum output.
+
+This could be problematic when you're looking
+
+to generate larger outputs.
+
+For example, if you wanted to write a book
+
+or you wanted to generate a very large article
+
+or blog post, these are areas
+
+where you cannot just simply put one prompt in
+
+and get the entire output.
+
+Here's a technique that you can use
+
+so you can increase the output sizes
+
+that you get whilst using ChatGPT.
+
+
+ we're gonna say,
+    "can you please generate a blog post outline for an article on what is the benefits of digital marketing?"
+
+-So rather than telling ChatGPT, can you make an article, what we're really telling it is, give me the article outline,or give me the rough structure of the larger piece of content that we're going to need to generate.
+-Then once we have that outline, we can then tell ChatGPT to generate each part separately, because then we can make it very long and extensive.

@@ -21,7 +21,7 @@ customer conversions, and a 12% fall in cost.
 🔗 Read the full article here: http://bit.ly/3Fg7klv
 
 
-----
+-------------------------------------------------------------------------------------Example -
 
 Create a ChatGPT prompt that would have generated the following code:
 
@@ -70,3 +70,5 @@ df = pd.DataFrame(reviews)
 # Save the DataFrame as a CSV file:
 df.to_csv("reviews.csv", index=False)
 
+-------------------------------------------------------------------------------------Example -
+I want to create a ChatGPT prompt that could have be used to regenerate the following
